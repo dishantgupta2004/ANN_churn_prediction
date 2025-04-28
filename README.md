@@ -15,7 +15,7 @@ ANN_CLASSIFICATION/ ├── logs/ ├── app.py ├── Churn_Modelling.c
 
 1. **Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/dishantgupta2004/ANN_churn_prediction.git
 cd ANN_CLASSIFICATION
 Create a Virtual Environment
 
